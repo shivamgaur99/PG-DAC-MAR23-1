@@ -6,19 +6,19 @@
 
 
 
-# Variables:reserved area in memory
+##Variables:reserved area in memory
 ---------------------------------
-  int i=10;
-  float j=50.55f;
-  double d;
-  pi=3.141;
-  float f1=5.5f, f2=7.7f;
-  char ch='y';
+	  int i=10;
+	  float j=50.55f;
+	  double d;
+	  pi=3.141;
+	  float f1=5.5f, f2=7.7f;
+	  char ch='y';
 
 # Java Tokens:
 ----------------
 
-Tokens: smallest individual units.
+	Tokens: smallest individual units.
 
 # 5 types of tokens:
 ---------------------
